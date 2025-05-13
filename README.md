@@ -31,6 +31,8 @@ Historical employment trends from 2000 to 2020
 The final output is an interactive Power BI dashboard that gives HR managers, analysts, and executives a 360° view of organizational performance. The goal is to identify strengths, flag areas of concern (like high turnover in specific departments), and recommend actionable strategies for employee retention, diversity, and workforce planning.
 
 
+[HR Perfomance Report.pdf](https://github.com/user-attachments/files/20189613/HR.Perfomance.Report.pdf)
+
 
 ---
 
